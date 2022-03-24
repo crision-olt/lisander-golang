@@ -1,0 +1,1 @@
+The functions of the routes folder will make it possible to check that the information sent to the request is correct and that the change in the database is also done correctly.
