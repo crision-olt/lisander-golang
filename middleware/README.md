@@ -1,0 +1,1 @@
+The middleware folder is in charge of verifying the connection to the database and that the token is valid in most of the requests

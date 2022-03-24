@@ -1,0 +1,1 @@
+The models folder will be in charge of defining the models that I will request from the database or send.

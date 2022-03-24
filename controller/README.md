@@ -1,0 +1,1 @@
+The functions within the folder will be to define the indications with each request that is made
